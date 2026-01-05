@@ -1,6 +1,8 @@
 import java.util.Scanner;
 import package1.package2.package2_2.Class1;
 
+// import package1.package2.Class1; cannot import this because of name conflict
+
 public class Main {
 
     public static void main(String[] args){
