@@ -17,5 +17,7 @@ public class Main {
 
         Class1 obj = new Class1();
         
+        package1.package2.Class1 obj2 = new package1.package2.Class1();
+        
     }
 }
